@@ -1,5 +1,10 @@
 // formatted with https://github.com/Moggla/MC_Language_Formatter
 // formatting codes can be found here https://minecraft.gamepedia.com/Formatting_codes
+// GUI manipulation:
+// Dark: -83
+// Light: -53
+// Special: -41
+// White: -26
 
 "advMode.mode.auto":                              "§f
 "advMode.mode.autoexec.bat":                      "§c
