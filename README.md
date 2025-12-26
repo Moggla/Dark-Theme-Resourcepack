@@ -22,15 +22,5 @@ I have colored all language files with [this](https://github.com/Moggla/MC_Langu
 - Click on Open Resource Pack Folder
 - Place the .zip File in there
 
-# Older Versions
-For this resource pack to work for old versions, you have to rename some files at the moment.
-
-Open the resource package and goto:
-"Dark Theme\assets\minecraft\textures\gui\container"
-Now change all ".old.png" to ".png"
-If ask replace all existing files.
-
-Unfortunately the recolor of the texts don't work in some old versions :/
-
 # Credit
 Login Background Map is from imbilio, Logo created with ewanhowell5195 Blockbench plugin
